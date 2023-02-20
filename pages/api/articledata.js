@@ -1,0 +1,55 @@
+export const homeArticle =[
+    {
+        id:1,
+        img: "/images/1.jpg",
+        title: "Bitcoin: Economics, Technology, and Governance",
+        text: "The scarcity of paper money is caused and ensured by unequal access to technology, and the scarcity of book money, in its turn, is regulated by legal rules.",
+    },
+    {
+        id:2,
+        img: "/images/1.jpg",
+        title: "Bitcoin and US-China Trade Relationship",
+        text: "The fact is that the high pace of development of various ventures and a number of rivals has resulted in the perception of the need for a search for new markets and ways to realize",
+    },
+    {
+        id:3,
+        img: "/images/1.jpg",
+        title: "Cryptocurrency Schemes Creating Artificial Bubbles",
+        text: "The introduction of cryptocurrencies in the recent past is one of the outcomes of innovation in the money market. The growth of cryptocurrencies has influenced the development of new business opportunities that have contributed to",
+    },
+    {
+        id:4,
+        img: "/images/1.jpg",
+        title: "Online Payment Opportunities: PayPal and Bitcoin",
+        text: "However, it is necessary to understand that online operations have a number of peculiarities and obligations, and one of them is the necessity to choose a proper payment method.",
+    },
+    {
+        id:5,
+        img: "/images/1.jpg",
+        title: "Cryptocurrency Technologies: Communication Theories",
+        text: "Therefore, the concept of buying and reselling the cryptocurrency implies following the communication privacy management theory, as well as the uncertainty reduction theory, which is caused by the natural desire of the majority of the",
+    },
+    {
+        id:6,
+        img: "/images/1.jpg",
+        title: "Bitcoin Digital Currency: Advantages and Disadvantages",
+        text: "According to Bouoiyour and Selmi, the absence of intermediaries in bitcoin transactions and the involvement of parties to a business is a milestone that amplifies its position in the currency platform.",
+    },
+    {   id:7,
+        img: "/images/1.jpg",
+        title: "Bitcoin Digital Currency Usage",
+        text: "It is the central player in the market of the digital currencies and can be considered as one of the concepts that have an impact on the development of the modern e-commerce.",
+    },
+    {
+        id:8,
+        img: "/images/1.jpg",
+        title: "Cryptocurrencies and Their Regulation Features",
+        text: "The introduction of cryptocurrencies into the global financial system has led to the growth of a new sector of finance known as FinTech.",
+    },
+    {
+        id:9,
+        img: "/images/1.jpg",
+        title: "Heading",
+        text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius molestias, quasi, quam omnis magnam impedit hic totam repudiandae reiciendis voluptate inventore nisi quidem.",
+    },
+]
